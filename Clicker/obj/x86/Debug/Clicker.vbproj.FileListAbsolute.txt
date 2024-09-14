@@ -1,0 +1,8 @@
+C:\Users\user\documents\visual studio 2010\Projects\Clicker\Clicker\bin\Debug\Clicker.exe
+C:\Users\user\documents\visual studio 2010\Projects\Clicker\Clicker\bin\Debug\Clicker.pdb
+C:\Users\user\documents\visual studio 2010\Projects\Clicker\Clicker\bin\Debug\Clicker.xml
+C:\Users\user\documents\visual studio 2010\Projects\Clicker\Clicker\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\Clicker\Clicker\obj\x86\Debug\Clicker.vbproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2010\Projects\Clicker\Clicker\obj\x86\Debug\Clicker.exe
+C:\Users\user\documents\visual studio 2010\Projects\Clicker\Clicker\obj\x86\Debug\Clicker.xml
+C:\Users\user\documents\visual studio 2010\Projects\Clicker\Clicker\obj\x86\Debug\Clicker.pdb

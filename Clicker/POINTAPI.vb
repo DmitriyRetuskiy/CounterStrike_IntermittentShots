@@ -1,0 +1,4 @@
+﻿
+Class POINTAPI
+
+End Class
